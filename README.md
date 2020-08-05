@@ -1,4 +1,4 @@
-# Python-Based-Data-Science
+# Python-Based-Data-Analytics
 Learn/Revise basic to advanced python and data analysis for starting up in the Data Science space
 
 Order of Study:
